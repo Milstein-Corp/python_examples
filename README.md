@@ -5,5 +5,5 @@ Learn Python by Examples.
 
     .
     ├── examples/               # python examples
-    │  └── hello_world.py       # 12 ways to print "Hello World!"                   
+    │  └── hello_world.py       # 13 ways to print "Hello World!"                   
     └── README.md
