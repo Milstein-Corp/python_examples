@@ -11,3 +11,11 @@ Learn Python by Examples.
     │   ├── ex_004_switch_case.py    # "switch-case" like in Python (3 examples)    
     │   └── ex_005_file_size.py      # get file-size of given filename     
     └── README.md
+
+### Do you want more learning content?
+
+- Click on Star (in the top right corner of this repository)
+- Follow https://github.com/sabbek/ for future update
+- Follow https://www.facebook.com/python.bootcamp/ and submit your custom requests!
+
+### THANK YOU!
