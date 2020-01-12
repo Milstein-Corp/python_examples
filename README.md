@@ -9,7 +9,8 @@ Learn Python by Examples.
     │   ├── ex_002_loop.py           # loop VS list comprehension (6 examples)  
     │   ├── ex_003_if_else.py        # if else block VS inline (5 examples)  
     │   ├── ex_004_switch_case.py    # "switch-case" like in Python (3 examples)    
-    │   └── ex_005_file_size.py      # get file-size of given filename     
+    │   ├── ex_005_file_size.py      # get file-size of given filename   
+    │   └── ex_006_map.py            # How to replace for loop with map    
     └── README.md
 
 ### Do you want more learning content?
