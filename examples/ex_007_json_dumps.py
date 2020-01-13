@@ -24,7 +24,6 @@ print(json.dumps(fb_page_info, indent=4))
 # }
 
 print(json.dumps(fb_page_info, indent=4, sort_keys=True))
-# # will print:
 # {
 #     "page_name": "Python Bootcamp Cambodia",
 #     "social": {
